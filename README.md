@@ -1,8 +1,8 @@
-How to use:
+## How to use:
 
- `docker compose up` or `docker-compose up` - include `-d` to run as a system service. The first time it will take more time to start up.
+`docker compose up` or `docker-compose up` - include `-d` to run as a system service. It will take more time to start up in the first run.
 
- The first time you can set the password - for the default `neo4j` user - from the Neo4j Browser in http://localhost:7474/browser/ 
+You can set the password - for the default `neo4j` user - from the Neo4j Browser in http://localhost:7474/browser/ 
 
 
 
